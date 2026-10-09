@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codebase Learning Route"
+  short_description: "Interview, explore, review, and build a code-reading route"
+  default_prompt: "Use $codebase-learning-route to identify the mechanism I want to learn, build the study Harness, run parallel exploration and review, and produce the reading route."
