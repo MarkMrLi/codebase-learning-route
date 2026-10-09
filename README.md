@@ -16,21 +16,11 @@
 
 ## 安装
 
-### 从 GitHub 安装
-
-将 `<owner>` 替换为实际 GitHub 用户名或组织名。仓库发布后，使用 [skills CLI](https://github.com/vercel-labs/skills) 安装：
-
-```bash
-npx skills add <owner>/codebase-learning-route --skill codebase-learning-route --agent codex --global
-```
-
-也可以在 Codex 中使用内置安装器，指定 skill 目录：
+丢给你的 Agent
 
 ```text
-$skill-installer install https://github.com/<owner>/codebase-learning-route/tree/main/skills/codebase-learning-route
+安装 https://github.com/MarkMrLi/codebase-learning-route/tree/main/skills/codebase-learning-route 这个 skill
 ```
-
-两种方式选择一种即可。
 
 ## 使用示例
 
